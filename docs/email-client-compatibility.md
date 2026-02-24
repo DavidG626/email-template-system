@@ -1,6 +1,6 @@
 # Email Client Compatibility
 
-Rendering support for components in this template system. Based on testing with [Email on Acid](https://www.emailonacid.com).
+Rendering support for components in this template system.
 
 ---
 
@@ -47,10 +47,6 @@ Rendering support for components in this template system. Based on testing with 
 - Outlook.com: Applies partial color inversion — test with both light and dark text
 - Gmail Android: Forces dark mode without CSS hooks — ensure sufficient contrast on both light and dark backgrounds
 
-## Testing Tools
+## Testing Tool
 
-- [Email on Acid](https://www.emailonacid.com) — Multi-client rendering previews
-- [Litmus](https://www.litmus.com) — Rendering, analytics, and link checking
-- [Mail-Tester](https://www.mail-tester.com) — Spam score testing
-- [Can I Email](https://www.caniemail.com) — CSS/HTML support lookup (like Can I Use, for email)
-- [HTML Email Check](https://www.htmlemailcheck.com) — Code validation
+- [Minty Email Tester](https://mintyemailtester.com) — CSS inlining, alt tag checking, table role verification, file size validation, missing tag detection, and live browser preview
