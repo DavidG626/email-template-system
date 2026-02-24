@@ -103,7 +103,7 @@ All columns stack to full-width on mobile (≤480px) with configurable reorder u
 
 ## Email Client Compatibility
 
-Tested with [Email on Acid](https://www.emailonacid.com). See `docs/email-client-compatibility.md` for the full matrix.
+Tested with [MintyEmailTester.com](https://www.mintyemailtester.com). 
 
 **Primary support:** Gmail (web/mobile), Apple Mail, Outlook 2016–2021+, Outlook.com, Yahoo Mail, Samsung Mail, iOS Mail
 
